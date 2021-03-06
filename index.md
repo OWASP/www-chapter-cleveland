@@ -15,15 +15,27 @@ Welcome to the OWASP Cleveland Chapter. We are currently planning our 2021 calen
 
 ## Upcoming Meetings
 
+Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).
+We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
+
+<b>OWASP Cleveland Chapter - March 2021 Meeting</b><br/>
+<span>Friday, March 26, 2021 at 6:30pm EST</span><br/>
+<p>
+Join the OWASP Cleveland Chapter for our March 2021 meeting where we will review the t-shirt design contest, expand on the OWASP Top 10, Zed Attack Proxy ZAP, Honeypots, and more.
+<br/>
+<br/>
+
+</p>
+
+## Previous Meetings Info
+
 <b>OWASP 2021 with Cleveland Chapter</b><br/>
 <span>Friday, January 29, 2021 at 6:30pm EST</span><br/>
 <p>
 The OWASP Cleveland Chapter will host its first meeting which will kickoff on Friday, January 29, 2021 at 6:30 pm EST. The first meeting will provide an introduction to what you can expect from our chapter in 2021 and it will also serve as our first membership drive. The chapter leaders are Eric Potter, Ian Mulhern, and Princeton Brooke. Each leader has adopted an OWASP project that will be reviewed in the first meeting and then expanded-on throughout the course of 2021. We look forward to serving the OWASP community, the city of Cleveland and Northeast Ohio, and security practitioners all over the world.
 <br/>
-We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
+<br/>
 </p>
-
-***Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).***
 
 ## Chapter information
 
