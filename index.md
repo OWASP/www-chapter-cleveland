@@ -18,7 +18,10 @@ Welcome to the OWASP Cleveland Chapter. We are currently planning our 2021 calen
 Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).
 We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
 
-<b>OWASP Cleveland Chapter - March 2021 Meeting</b><br/>
+<br/><br/>
+Due to inclement weather and for the safety of attendees, we have decided to cancel tonight's meeting. The next meeting is tentatively scheduled for Friday, April 30, 2021 and we promise you won't want to miss it =)
+<br/><br/>
+<b>CANCELLED -- OWASP Cleveland Chapter - March 2021 Meeting</b><br/>
 <span>Friday, March 26, 2021 at 6:30pm EST</span><br/>
 <p>
 Join the OWASP Cleveland Chapter for our March 2021 meeting where we will review the t-shirt design contest, expand on the OWASP Top 10, Zed Attack Proxy ZAP, Honeypots, and more.
