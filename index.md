@@ -21,7 +21,7 @@ We look forward to hearing from members and having open dialog on how our chapte
 <br/><br/>
 <b>Meeting scheduled for Friday, April 30, 2021 at 6:30pm EST</b>
 <br/><br/>
-The OWASP Cleveland Chapter is excited to announce that our next meeting will be held on Friday, April 30, 2021 at 6:30pm EST. Please join us as we review best practices and challenges faced by Cybersecurity professionals; the importance of mentorship, training, and certifications within the community; honeypot planning and considerations for architecture, threat modeling, analysis, and honeypot post-incident outcomes for SMB through enterprise, and much more. 
+The OWASP Cleveland Chapter is excited to announce that our next meeting will be held on Friday, April 30, 2021 at 6:30pm EST. Please join us as we review best practices and challenges faced by Cybersecurity professionals; the importance of mentorship, training, and certifications within the community; honeypot planning and considerations for architecture, threat modeling, analysis, and honeypot post-ir outcomes for SMB through enterprise, and much more. 
 <br/>
 <br/>
 
