@@ -2,8 +2,8 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)
+* [Meetup](https://www.meetup.com/owasp-cleveland-group/)
+* [Social Link](https://www.youtube.com/channel/UCbOuqKOuGOLLpENey0TTYqQ)
 
 
 ### Chapter Mailing list
