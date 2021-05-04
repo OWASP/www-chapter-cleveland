@@ -18,23 +18,19 @@ Welcome to the OWASP Cleveland Chapter. We are currently planning our 2021 calen
 Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).
 We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
 
-<br/><br/>
-<b>Meeting scheduled for Friday, May 28, 2021 at 6:30pm EST. Stay connected for more details.</b>
-<br/><br/>
 <br/>
+<b>Meeting scheduled for Friday, May 28, 2021 at 6:30pm EST. Stay connected on our Meetup page for more details.</b>
 <br/>
 
-<br/><br/>
-<b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST. Stay connected for more details.</b>
-<br/><br/>
 <br/>
+<b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST. Stay connected on our Meetup page for more details.</b>
 <br/>
 
 ## Previous Meetings Info
 
 <b>OWASP 2021 with Cleveland Chapter - April Meeting</b><br/>
 <br/><br/>
-The OWASP Cleveland Chapter held a meeting on Friday, April 30, 2021 at 6:30pm EST. We created a new YouTube channel where our meetings will automatically be saved.
+The OWASP Cleveland Chapter held a meeting on Friday, April 30, 2021 at 6:30pm EST. We created a new YouTube channel where our meetings will automatically be saved. To view the recorded session, please visit the following link: https://youtu.be/K8QuHRXho0c
 <br/>
 <br/>
 
