@@ -19,10 +19,6 @@ Upcoming meeting details will be located at our [Meetup.com site](http://www.mee
 We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
 
 <br/>
-<b>Meeting scheduled for Friday, May 28, 2021 at 6:30pm EST. Stay connected on our Meetup page for more details.</b>
-<br/>
-
-<br/>
 <b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST. Stay connected on our Meetup page for more details.</b>
 <br/>
 
