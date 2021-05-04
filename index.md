@@ -19,7 +19,8 @@ Upcoming meeting details will be located at our [Meetup.com site](http://www.mee
 We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
 
 <br/>
-<b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST. Stay connected on our Meetup page for more details.</b>
+<b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST.</b><br/>
+Join us in conversation with Mike Mallory who is delivering his presentation on WPA3: Evolving Wireless Protected Access. Stay connected on our Meetup.com page for more details and to RSVP for this event.
 <br/>
 
 ## Previous Meetings Info
