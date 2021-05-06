@@ -18,10 +18,19 @@ Welcome to the OWASP Cleveland Chapter. We are currently planning our 2021 calen
 Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).
 We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
 
+<hr/>
+<div class="mtg-scheduled">
+<h2>Friday, May 28, 2021 at 6:30pm EST.</h2>
+In the first of a three part series, Princeton Brooke will review his research on Zero Trust Cryptography for Healthcare and Industrial Control Systems. Princeton will also lay foundations for taking a proactive approach to securing medical and patient data that can also be adapted to increased security within industrial control environments.
 <br/>
-<b>Meeting scheduled for Friday, June 25, 2021 at 6:30pm EST.</b><br/>
+</div>
+
+<hr/>
+<div class="mtg-scheduled mtg-scheduled-last">
+<h2>June 25, 2021 at 6:30pm EST.</h2>
 Join us in conversation with Mike Mallory who is delivering his presentation on WPA3: Evolving Wireless Protected Access. Stay connected on our Meetup.com page for more details and to RSVP for this event.
 <br/>
+</div>
 
 ## Previous Meetings Info
 
