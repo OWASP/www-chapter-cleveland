@@ -21,7 +21,7 @@ We look forward to hearing from members and having open dialog on how our chapte
 <hr/>
 <div class="mtg-scheduled">
 <h2>Friday, May 28, 2021 at 6:30pm EST.</h2>
-In the first of a three part series, Princeton Brooke will review his research on Zero Trust Cryptography for Healthcare and Industrial Control Systems. Princeton will also lay foundations for taking a proactive approach to securing medical and patient data that can also be adapted to increased security within industrial control environments.
+In the first of a three part series, Princeton Brooke will review his research on Zero Trust Cryptography for Healthcare and Industrial Control Systems. Princeton will also lay foundations for taking a proactive approach to securing medical and patient data that can also be adapted to SCADA supervisory for increased security posture in ICS.
 <br/>
 </div>
 
