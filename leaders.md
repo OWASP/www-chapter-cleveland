@@ -1,4 +1,4 @@
 ### Leaders
-* [Ian Mulhern](mailto:ian.mulhern@owasp.org)
-* [Eric Potter](mailto:eric.potter@owasp.org)
 
+* [John Crynick](mailto:john.crynick@owasp.org)
+* [Eden Yardeni](mailto:eden.yardeni@owasp.org)
