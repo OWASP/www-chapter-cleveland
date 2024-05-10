@@ -11,21 +11,20 @@ country: USA
 postal-code: 44106
 
 ---
-Welcome to the OWASP Cleveland Chapter. We are currently planning our 2021 calendar. Please bookmark our official Meetup profile to stay informed about meetings. Due to the current COVID-19 pandemic status and until further notice, our meetings will be held virtually.
+Welcome to the OWASP Cleveland Chapter. We've just reactivated our chapter in May 2024 and begun planning meetups, so consider joining one of our upcoming events. There, we'll focus on gauging the interests of the AppSec community in Northeast Ohio, and planning future events accordingly.
 
 ## Upcoming Meetings
 
-Upcoming meeting details will be located at our [Meetup.com site](http://www.meetup.com/owasp-cleveland-group/).
-We look forward to hearing from members and having open dialog on how our chapter can assist in servicing the needs of the greater OWASP organization.
+We're hosting a Meet & Greet on June 5, 2024 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. RSVP on Meetup: https://www.meetup.com/owasp-cleveland-group/events/300914168/
 
 
 ## Chapter information
 
-The Cleveland chapter is lead by John Crynick and Eden Yardeni. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Cleveland and surrounding Northeast Ohio region. 
+The Cleveland chapter is led by John Crynick and Eden Yardeni. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Cleveland and surrounding Northeast Ohio region. 
 
 ### OWASP Membership
 
-Our first meeting in 2021 will be a membership drive. [Learn more](http://www.owasp.org/index.php/Membership#Categories_of_Membership_.26_Supporters). Please indicate that you are interested in membership within the Cleveland chapter.
+Our meetups are open to the entire community, though we encourage becoming an OWASP member to support our free and open-source application security projects. Learn more here: https://owasp.org/membership/
 
 <!-- end list -->
 
