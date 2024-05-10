@@ -15,7 +15,7 @@ Welcome to the OWASP Cleveland Chapter. We've just reactivated our chapter in Ma
 
 ## Upcoming Meetings
 
-We're hosting a Meet & Greet on June 5, 2024 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. RSVP on Meetup: https://www.meetup.com/owasp-cleveland-group/events/300914168/
+We're hosting a Meet & Greet on June 5, 2024 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/300914168/](https://www.meetup.com/owasp-cleveland-group/events/300914168/)
 
 
 ## Chapter information
@@ -24,7 +24,7 @@ The Cleveland chapter is led by John Crynick and Eden Yardeni. We plan to provid
 
 ### OWASP Membership
 
-Our meetups are open to the entire community, though we encourage becoming an OWASP member to support our free and open-source application security projects. Learn more here: https://owasp.org/membership/
+Our meetups are open to the entire community, though we encourage becoming an OWASP member to support our free and open-source application security projects. Learn more here: [https://owasp.org/membership/](https://owasp.org/membership/)
 
 <!-- end list -->
 
