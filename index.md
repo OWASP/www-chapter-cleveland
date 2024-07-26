@@ -11,11 +11,13 @@ country: USA
 postal-code: 44106
 
 ---
-Welcome to the OWASP Cleveland Chapter. We've just reactivated our chapter in May 2024 and begun planning meetups, so consider joining one of our upcoming events. There, we'll focus on gauging the interests of the AppSec community in Northeast Ohio, and planning future events accordingly.
+
+Welcome to the OWASP Cleveland Chapter. Reactivated in May 2024, it is our goal is to meet monthly to discuss everything related to application security. Join us at one of our upcoming events to engage in conversations about the latest trends and best practices in the field.
 
 ## Upcoming Meetings
 
-We're hosting a Meet & Greet on June 5, 2024 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/300914168/](https://www.meetup.com/owasp-cleveland-group/events/300914168/)
+We're hosting a meetup on Tuesday, 8/13 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/302440241/](https://www.meetup.com/owasp-cleveland-group/events/302440241/)
+
 
 
 ## Chapter information
