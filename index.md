@@ -16,7 +16,7 @@ Welcome to the OWASP Cleveland Chapter. Reactivated in May 2024, it is our goal 
 
 ## Upcoming Meetings
 
-We’re hosting a meetup on Wednesday, 9/18 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. Join us for a presentation on **Threat Modeling** by Eden Yardeni. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/302440241/](https://www.meetup.com/owasp-cleveland-group/events/302440241/)
+We’re hosting a meetup on Wednesday, 9/18 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. Join us for a presentation on **Threat Modeling** by Eden Yardeni. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/303247536/](https://www.meetup.com/owasp-cleveland-group/events/303247536/)
 
 
 
