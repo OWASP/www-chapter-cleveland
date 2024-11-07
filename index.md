@@ -16,13 +16,13 @@ Welcome to the OWASP Cleveland Chapter. Reactivated in May 2024, it is our goal 
 
 ## Upcoming Meetings
 
-We’re hosting a meetup on Wednesday, 9/18 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. Join us for a presentation on **Threat Modeling** by Eden Yardeni. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/303247536/](https://www.meetup.com/owasp-cleveland-group/events/303247536/)
+We’re hosting a meetup on Tuesday, 11/12 at [Market Avenue Wine Bar](https://marketavenuewinebar.com/) in Ohio City. Join us for a presentation on **CVE Hunting** by Charles Bickel. RSVP on Meetup: [https://www.meetup.com/owasp-cleveland-group/events/303247536/](https://www.meetup.com/owasp-cleveland-group/events/303247536/)
 
 
 
 ## Chapter information
 
-The Cleveland chapter is led by John Crynick and Eden Yardeni. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Cleveland and surrounding Northeast Ohio region. 
+The Cleveland chapter is led by John Crynick, Eden Yardeni, and Charles Bickel. We plan to provide training and networking opportunities for Cybersecurity professionals, students, enthusiasts, and businesses within the Cleveland and surrounding Northeast Ohio region. 
 
 ### OWASP Membership
 
