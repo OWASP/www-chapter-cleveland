@@ -1,0 +1,34 @@
+community:
+  - name: chapter-cleveland
+    platform: slack
+    url: https://owasp.slack.com/archives/C01K6QX6HKR
+    description: Channel for OWASP Cleveland Chapter
+leaders:
+  - name: John Crynick
+    email: john.crynick@owasp.org
+    github: johnchd
+  - name: Eden Yardeni
+    email: eden.yardeni@owasp.org
+    github: cronchie
+  - name: Charles Bickel
+    email: charles.bickel@owasp.org
+    github: charlesbickel
+location:
+  country: United States
+  country_code: US
+  region: Ohio
+  city: Cleveland
+  postal_code: '44106'
+  latitude: 41.4996574
+  longitude: -81.6936772
+meetup_group: owasp-cleveland-group
+name: OWASP Cleveland
+repositories:
+  - name: www-chapter-cleveland
+    url: https://github.com/OWASP/www-chapter-cleveland
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-cleveland
